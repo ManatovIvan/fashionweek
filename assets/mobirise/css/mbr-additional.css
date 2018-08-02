@@ -3741,6 +3741,9 @@ body {
 .cid-qXoCkODVBx .mbr-text {
   color: #767676;
 }
+.cid-qXoCkODVBx .mbr-text B {
+  color: #000000;
+}
 .cid-qZysZ9VxYp {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -3776,7 +3779,7 @@ body {
   }
 }
 .cid-qZyt44HuAU .mbr-text {
-  color: #767676;
+  color: #000000;
 }
 .cid-qZyt44HuAU .mbr-text B {
   color: #000000;

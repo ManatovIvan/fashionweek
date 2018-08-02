@@ -2869,6 +2869,9 @@
             "background-color": "@bgColor",
             ".mbr-text": {
               "color": "#767676"
+            },
+            ".mbr-text B": {
+              "color": "#000000"
             }
           },
           "_name": "content3",
@@ -2925,7 +2928,7 @@
               }
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#000000"
             },
             ".mbr-text B": {
               "color": "#000000"
