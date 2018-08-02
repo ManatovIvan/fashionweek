@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1551,25 +1551,25 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "image": "@PROJECT_PATH@/assets/images/modeli-v-bezhevyih-plto-v-muzhskom-stile-modnyie-palto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/modeli-v-bezhevyih-plto-v-muzhskom-stile-modnyie-palto-700x574.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
-                "active": true
+                "caption": "<a href=\"page3.html\">Верблюжье пальто</a>",
+                "active": false
               },
               {
                 "tags": "Отзывчивый",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
+                "image": "@PROJECT_PATH@/assets/images/modeli-v-dlinnyih-rozovyih-palto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/modeli-v-dlinnyih-rozovyih-palto-700x574.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "<a href=\"page3.html\">Время нежности — розовые пальто</a>",
                 "active": false
               },
               {
@@ -1577,12 +1577,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
+                "image": "@PROJECT_PATH@/assets/images/modeli-v-krasivyih-belyih-palto-modnyie-palto-768x629.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/modeli-v-krasivyih-belyih-palto-modnyie-palto-768x629-768x629.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "<a href=\"page3.html\">Белые пальто превратят вас в снежную королеву</a>",
                 "active": false
               },
               {
@@ -1590,12 +1590,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
+                "image": "@PROJECT_PATH@/assets/images/modeli-v-seryih-udobnyih-palto-s-karmanimi-modnyie-palto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/modeli-v-seryih-udobnyih-palto-s-karmanimi-modnyie-palto-700x574.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "<a href=\"page3.html\">Пальто в сером цвете</a>",
                 "active": false
               },
               {
@@ -1603,12 +1603,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
+                "image": "@PROJECT_PATH@/assets/images/modeli-v-krasnom-palto-oversayz-modnoe-palto-osen-zima.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/modeli-v-krasnom-palto-oversayz-modnoe-palto-osen-zima-800x656.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "<a href=\"page3.html\">Дайте знать о себе в красном пальто</a>",
                 "active": false
               },
               {
@@ -1616,12 +1616,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
+                "image": "@PROJECT_PATH@/assets/images/modeli-v-golubyih-palto-v-kletku-modnyie-modeli-palto.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/modeli-v-golubyih-palto-v-kletku-modnyie-modeli-palto-700x574.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "<a href=\"page3.html\"> Голубые пальто? Да, но в клетку</a>",
                 "active": false
               },
               {
@@ -1629,26 +1629,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/modeli-v-chernyih-dlinnyih-palto-oversayz.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/modeli-v-chernyih-dlinnyih-palto-oversayz-700x574.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
-                "active": false
-              },
-              {
-                "tags": "Анимированный",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
-                "active": false
+                "caption": "<a href=\"page3.html\">Черное пальто — классика</a>",
+                "active": true
               }
             ]
           }
@@ -2405,7 +2392,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/modeli-v-krasnom-palto-oversayz-modnoe-palto-osen-zima.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -2419,23 +2406,6 @@
                 "contentAlign": "center",
                 "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ MAC</a>"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-2",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "title": "Новость 2<br>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Слайд с фоновым изображением YouTube и цветным наложением. Заголовок и текст выровнены влево.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ MAC</a>"
               }
             ]
           }
